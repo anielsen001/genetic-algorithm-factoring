@@ -1,0 +1,3 @@
+This is an early genetic algorithm code to experiment with factoring numbers.
+
+Written in Lisp.
